@@ -14,10 +14,10 @@ En este desafio llamado ForoHub, se replica la funcionalidad de un foro en back 
 ## Funcionalidades
 - API REST usando Spring;
 - Crear un nuevo tópico;
--Mostrar todos los tópicos creados;
--Mostrar un tópico específico;
--Actualizar un tópico;
--Eliminar un tópico;
+- Mostrar todos los tópicos creados;
+- Mostrar un tópico específico;
+- Actualizar un tópico;
+- Eliminar un tópico;
 
 ## Herramientas utilizadas 
 -Java
